@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Manuela Zanni: Welcome to my blog
 ---
 
